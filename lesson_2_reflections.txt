@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  .git folder is created on that command, otherwise it's missing.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  It's temporary. It helps to create more logical commits.
